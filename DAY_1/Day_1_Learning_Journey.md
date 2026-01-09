@@ -86,11 +86,13 @@ use Databricks gave me strong confidence that this platform is **industry-proven
 
 ---
 
-##
-![Ijjk](DAY_1/PySpark_practice.png)
-![Ijjk](DAY_1/SQL_Products.png)
-![Ijjk](DAY_1/SQL_customer.png)
-PySpark_practice.png
+##🔹 First Databricks Notebook Execution[Created and executed my first notebook and ran basic PySpark commands.]
+(DAY_1/PySpark_practice.png)
+
+🔹 SQL Queries on Imported Data
+[Imported CSV file and executed SQL queries to explore the data.](DAY_1/SQL_customer.png)
+[Imported JSON file and executed SQL queries to explore the data.](DAY_1/SQL_Products.png)
+
 
 
 - Sample CSV and JSON files used for SQL practice
