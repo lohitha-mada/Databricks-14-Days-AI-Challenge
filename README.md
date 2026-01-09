@@ -25,5 +25,3 @@ To build strong fundamentals in Databricks, Spark, and AI-driven data engineerin
 
 📌 *I will keep updating this repository daily as part of the challenge.*
 
-📌 *I will keep updating this repository daily as part of the challenge.*
-
