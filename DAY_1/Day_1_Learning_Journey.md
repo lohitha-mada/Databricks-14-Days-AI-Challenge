@@ -88,8 +88,6 @@ use Databricks gave me strong confidence that this platform is **industry-proven
 
 ## 🔹 First Databricks Notebook Execution
 
-## 🔹 First Databricks Notebook Execution
-
 ![Created and executed my first notebook and ran basic PySpark commands](PySpark_practice.png)
 
 ---
@@ -102,20 +100,13 @@ use Databricks gave me strong confidence that this platform is **industry-proven
 ### JSON File Query Execution
 ![Imported JSON file and executed SQL queries to explore the data](SQL_Products.png)
 
-![Created and executed my first notebook and ran basic PySpark commands.]((https://github.com/lohitha-mada/Databricks-14-Days-AI-Challenge/blob/main/DAY_1/PySpark_practice.png)]
-🔹 SQL Queries on Imported Data
-[Imported CSV file and executed SQL queries to explore the data.](DAY_1/SQL_customer.png)
-[Imported JSON file and executed SQL queries to explore the data.](DAY_1/SQL_Products.png)
-
-
 
 These snapshots reflect my **hands-on exploration and learning process**.
 
 ---
 
 ## 🎯 Key Takeaway
-Day 1 was not about writing complex code —  
-it was about understanding **the bigger picture of modern data platforms** and building clarity before moving forward.
+Day 1 was not about writing complex code, it was about understanding **the bigger picture of modern data platforms** and building clarity before moving forward.
 
 Excited to continue this journey and share my learning **day by day** 🚀
 
