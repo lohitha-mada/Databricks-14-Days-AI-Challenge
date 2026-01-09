@@ -86,11 +86,9 @@ use Databricks gave me strong confidence that this platform is **industry-proven
 
 ---
 
-##🔹 First Databricks Notebook Execution
+## 🔹 First Databricks Notebook Execution
 
-#(DAY_1/PySpark_practice.png)
-![Created and executed my first notebook and ran basic PySpark commands.]([https://github.com/user-attachments/assets/eb531df8-0af3-44d5-b96d-23a5566cefc6](https://github.com/lohitha-mada/Databricks-14-Days-AI-Challenge/blob/main/DAY_1/PySpark_practice.png))
-
+![Created and executed my first notebook and ran basic PySpark commands.]((https://github.com/lohitha-mada/Databricks-14-Days-AI-Challenge/blob/main/DAY_1/PySpark_practice.png)]
 🔹 SQL Queries on Imported Data
 [Imported CSV file and executed SQL queries to explore the data.](DAY_1/SQL_customer.png)
 [Imported JSON file and executed SQL queries to explore the data.](DAY_1/SQL_Products.png)
