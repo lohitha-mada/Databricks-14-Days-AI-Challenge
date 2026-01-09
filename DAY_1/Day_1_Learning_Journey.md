@@ -86,11 +86,13 @@ use Databricks gave me strong confidence that this platform is **industry-proven
 
 ---
 
-## 📸 Snapshots & Resources
-This folder also contains:
+##
+![Ijjk](DAY_1/PySpark_practice.png)
+![Ijjk](DAY_1/SQL_Products.png)
+![Ijjk](DAY_1/SQL_customer.png)
 PySpark_practice.png
-SQL_Products.png
-SQL_customer.png
+
+
 - Sample CSV and JSON files used for SQL practice
 
 These snapshots reflect my **hands-on exploration and learning process**.
